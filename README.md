@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vaporaxel
 - 👀 I’m interested in design, videogames and technology
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate combining design with Javascript
+- 💞️ I’m looking to collaborate in design/Javascript/UI projects
 - 📫 Reach me in hello@axelrobles.com
 
 <!---
